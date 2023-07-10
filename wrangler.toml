@@ -1,4 +1,4 @@
-name = "gentle-sunset-3c5e"
+name = "cloudflare_test_workers"
 main = "src/worker.js"
 compatibility_date = "2023-06-28"
 

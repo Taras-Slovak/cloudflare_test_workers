@@ -10,6 +10,7 @@
 
 export default {
 	async fetch(request, env, ctx) {
-		return new Response('Hello World testc!');
-	},
+		return new Response('Hello World test 10.07.2023!');
+	},	
 };
+
